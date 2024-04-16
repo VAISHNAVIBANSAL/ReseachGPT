@@ -1,1 +1,1 @@
-# ResearchGPT
+# Try out
