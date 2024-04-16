@@ -1,0 +1,13 @@
+npx create-react-app my-cool-website
+cd my-cool-website
+npm start
+
+npm install react-router-dom
+
+/* Header.css */
+header {
+  background-color: navy;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
